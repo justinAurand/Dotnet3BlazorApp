@@ -1,0 +1,1 @@
+# Base Blazor server application
